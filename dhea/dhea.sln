@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dhea", "dhea.csproj", "{B758D56D-4E55-4AD7-9D89-BAC6EAAC3E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B758D56D-4E55-4AD7-9D89-BAC6EAAC3E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B758D56D-4E55-4AD7-9D89-BAC6EAAC3E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B758D56D-4E55-4AD7-9D89-BAC6EAAC3E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B758D56D-4E55-4AD7-9D89-BAC6EAAC3E77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32C21904-0ACB-48C3-9258-81B63416887E}
+	EndGlobalSection
+EndGlobal
